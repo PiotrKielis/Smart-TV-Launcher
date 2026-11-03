@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Czysty Launcher</string>
+    <string name="screensaver_name">Czysty Launcher: tapeta i zegar</string>
+    <string name="remote_key_service">Czysty Launcher: przyciski pilota</string>
+    <string name="remote_key_service_description">Przycisk z kafelkami otwiera ekran główny, a przycisk z kółkiem zamyka aplikacje działające w tle. Usługa reaguje tylko na te dwa klawisze i nie odczytuje zawartości ekranu.</string>
+</resources>

@@ -1,0 +1,19 @@
+# Gradle / Android Studio
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+captures/
+
+# Prywatne: klucz podpisu, jego hasła i własna tapeta
+*.jks
+*.keystore
+keystore.properties
+app/personal/
+
+# Pliki robocze
+*.apk
+tools/_generated.png
+__pycache__/
